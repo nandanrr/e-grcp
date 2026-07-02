@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Vendor Compliance",
+    "level": "High"
+  },
+  {
+    "id": 2,
+    "name": "Financial Risk",
+    "level": "Medium"
+  },
+  {
+    "id": 3,
+    "name": "Security Risk",
+    "level": "High"
+  },
+  {
+    "id": 4,
+    "name": "Operational Risk",
+    "level": "Low"
+  }
+]

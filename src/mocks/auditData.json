@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "activity": "Vendor Approved",
+    "user": "Admin",
+    "module": "Vendor",
+    "date": "20-Jun-2026",
+    "status": "Completed"
+  },
+  {
+    "id": 2,
+    "activity": "Risk Assessment Updated",
+    "user": "Risk Manager",
+    "module": "Risk",
+    "date": "22-Jun-2026",
+    "status": "Completed"
+  },
+  {
+    "id": 3,
+    "activity": "Compliance Report Uploaded",
+    "user": "Compliance Officer",
+    "module": "Compliance",
+    "date": "24-Jun-2026",
+    "status": "Pending"
+  },
+  {
+    "id": 4,
+    "activity": "Audit Closed",
+    "user": "Auditor",
+    "module": "Audit",
+    "date": "25-Jun-2026",
+    "status": "Completed"
+  }
+]

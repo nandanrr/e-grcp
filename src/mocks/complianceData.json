@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "item": "ISO 27001 Audit",
+    "department": "IT",
+    "status": "Compliant",
+    "dueDate": "12-Jul-2026"
+  },
+  {
+    "id": 2,
+    "item": "GDPR Review",
+    "department": "Legal",
+    "status": "Pending",
+    "dueDate": "18-Jul-2026"
+  },
+  {
+    "id": 3,
+    "item": "Vendor Agreement",
+    "department": "Procurement",
+    "status": "Violation",
+    "dueDate": "25-Jun-2026"
+  },
+  {
+    "id": 4,
+    "item": "Cyber Security Audit",
+    "department": "Security",
+    "status": "Compliant",
+    "dueDate": "20-Jul-2026"
+  }
+]

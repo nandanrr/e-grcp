@@ -1,0 +1,203 @@
+[
+  {
+    "id": 1,
+    "request": "Laptop Purchase",
+    "department": "IT",
+    "priority": "High",
+    "description": "Purchase 15 laptops for the development team.",
+    "status": "Pending",
+    "submittedBy": "John Admin",
+    "submittedDate": "2026-06-28",
+    "attachments": [],
+    "comments": [],
+    "approvalHistory": [
+      {
+        "stage": "Request Submitted",
+        "status": "Completed",
+        "date": "2026-06-28"
+      },
+      {
+        "stage": "Manager Approval",
+        "status": "Pending",
+        "date": null
+      },
+      {
+        "stage": "Procurement Approval",
+        "status": "Pending",
+        "date": null
+      }
+    ],
+    "auditLogs": [
+      {
+        "action": "Request Created",
+        "performedBy": "John Admin",
+        "date": "2026-06-28"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "request": "Software License",
+    "department": "Finance",
+    "priority": "Medium",
+    "description": "Renew Microsoft Office licenses.",
+    "status": "Approved",
+    "submittedBy": "David Manager",
+    "submittedDate": "2026-06-26",
+    "attachments": [],
+    "comments": [],
+    "approvalHistory": [
+      {
+        "stage": "Request Submitted",
+        "status": "Completed",
+        "date": "2026-06-26"
+      },
+      {
+        "stage": "Manager Approval",
+        "status": "Completed",
+        "date": "2026-06-27"
+      },
+      {
+        "stage": "Procurement Approval",
+        "status": "Completed",
+        "date": "2026-06-28"
+      }
+    ],
+    "auditLogs": [
+      {
+        "action": "Request Created",
+        "performedBy": "David Manager",
+        "date": "2026-06-26"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "request": "Office Chairs",
+    "department": "HR",
+    "priority": "Low",
+    "description": "Purchase ergonomic office chairs.",
+    "status": "Rejected",
+    "submittedBy": "John Admin",
+    "submittedDate": "2026-06-22",
+    "attachments": [],
+    "comments": [],
+    "approvalHistory": [
+      {
+        "stage": "Request Submitted",
+        "status": "Completed",
+        "date": "2026-06-22"
+      },
+      {
+        "stage": "Manager Approval",
+        "status": "Rejected",
+        "date": "2026-06-23"
+      }
+    ],
+    "auditLogs": [
+      {
+        "action": "Request Created",
+        "performedBy": "John Admin",
+        "date": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "request": "Cloud Subscription",
+    "department": "IT",
+    "priority": "High",
+    "description": "Annual cloud infrastructure renewal.",
+    "status": "Pending",
+    "submittedBy": "David Manager",
+    "submittedDate": "2026-06-25",
+    "attachments": [],
+    "comments": [],
+    "approvalHistory": [
+      {
+        "stage": "Request Submitted",
+        "status": "Completed",
+        "date": "2026-06-25"
+      },
+      {
+        "stage": "Manager Approval",
+        "status": "Pending",
+        "date": null
+      }
+    ],
+    "auditLogs": [
+      {
+        "action": "Request Created",
+        "performedBy": "David Manager",
+        "date": "2026-06-25"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "request": "Printer Purchase",
+    "department": "Admin",
+    "priority": "Medium",
+    "description": "Purchase laser printers for administration.",
+    "status": "Approved",
+    "submittedBy": "John Admin",
+    "submittedDate": "2026-06-20",
+    "attachments": [],
+    "comments": [],
+    "approvalHistory": [
+      {
+        "stage": "Request Submitted",
+        "status": "Completed",
+        "date": "2026-06-20"
+      },
+      {
+        "stage": "Manager Approval",
+        "status": "Completed",
+        "date": "2026-06-21"
+      },
+      {
+        "stage": "Procurement Approval",
+        "status": "Completed",
+        "date": "2026-06-22"
+      }
+    ],
+    "auditLogs": [
+      {
+        "action": "Request Created",
+        "performedBy": "John Admin",
+        "date": "2026-06-20"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "request": "Server Upgrade",
+    "department": "IT",
+    "priority": "High",
+    "description": "Upgrade production application servers.",
+    "status": "Pending",
+    "submittedBy": "David Manager",
+    "submittedDate": "2026-06-27",
+    "attachments": [],
+    "comments": [],
+    "approvalHistory": [
+      {
+        "stage": "Request Submitted",
+        "status": "Completed",
+        "date": "2026-06-27"
+      },
+      {
+        "stage": "Manager Approval",
+        "status": "Pending",
+        "date": null
+      }
+    ],
+    "auditLogs": [
+      {
+        "action": "Request Created",
+        "performedBy": "David Manager",
+        "date": "2026-06-27"
+      }
+    ]
+  }
+]

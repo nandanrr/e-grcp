@@ -1,0 +1,9 @@
+{
+  "name": "Nandan R",
+  "email": "nandan@example.com",
+  "role": "Procurement Manager",
+  "theme": "Light",
+  "language": "English",
+  "notifications": true,
+  "twoFactor": true
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "message": "Vendor ABC approved",
+    "priority": "High",
+    "status": "Unread",
+    "time": "10:15 AM"
+  },
+  {
+    "id": 2,
+    "message": "Procurement Request Approved",
+    "priority": "Medium",
+    "status": "Read",
+    "time": "09:45 AM"
+  },
+  {
+    "id": 3,
+    "message": "Risk Assessment Updated",
+    "priority": "Low",
+    "status": "Unread",
+    "time": "08:30 AM"
+  },
+  {
+    "id": 4,
+    "message": "Compliance Report Uploaded",
+    "priority": "High",
+    "status": "Read",
+    "time": "Yesterday"
+  }
+]

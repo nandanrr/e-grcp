@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "request": "Laptop Purchase",
+    "department": "IT",
+    "status": "Pending"
+  },
+  {
+    "id": 2,
+    "request": "Software License",
+    "department": "Finance",
+    "status": "Approved"
+  },
+  {
+    "id": 3,
+    "request": "Vendor Agreement",
+    "department": "Procurement",
+    "status": "Escalated"
+  },
+  {
+    "id": 4,
+    "request": "Security Audit",
+    "department": "Security",
+    "status": "Rejected"
+  }
+]

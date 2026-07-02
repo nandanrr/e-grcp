@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Infosys",
+    "category": "Technology",
+    "status": "Active",
+    "risk": "Low"
+  },
+  {
+    "id": 2,
+    "name": "TCS",
+    "category": "Technology",
+    "status": "Active",
+    "risk": "Medium"
+  },
+  {
+    "id": 3,
+    "name": "Wipro",
+    "category": "Technology",
+    "status": "Inactive",
+    "risk": "High"
+  },
+  {
+    "id": 4,
+    "name": "Dell",
+    "category": "Hardware",
+    "status": "Active",
+    "risk": "Low"
+  },
+  {
+    "id": 5,
+    "name": "HP",
+    "category": "Hardware",
+    "status": "Pending Review",
+    "risk": "Medium"
+  },
+  {
+    "id": 6,
+    "name": "Oracle",
+    "category": "Software",
+    "status": "Active",
+    "risk": "Low"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "report": "Procurement Report",
+    "department": "Procurement",
+    "generatedOn": "26-Jun-2026",
+    "status": "Generated"
+  },
+  {
+    "id": 2,
+    "report": "Vendor Report",
+    "department": "Vendor",
+    "generatedOn": "25-Jun-2026",
+    "status": "Generated"
+  },
+  {
+    "id": 3,
+    "report": "Risk Report",
+    "department": "Risk",
+    "generatedOn": "24-Jun-2026",
+    "status": "Pending"
+  },
+  {
+    "id": 4,
+    "report": "Compliance Report",
+    "department": "Compliance",
+    "generatedOn": "23-Jun-2026",
+    "status": "Generated"
+  }
+]

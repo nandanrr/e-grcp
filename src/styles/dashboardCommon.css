@@ -1,0 +1,65 @@
+.page-title {
+  margin-bottom: 25px;
+}
+
+.kpi-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+.kpi-card {
+  padding: 20px;
+  border-radius: 12px;
+  border-left: 6px solid #1976d2;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.kpi-title {
+  font-size: 18px;
+  color: #555;
+  margin-bottom: 10px;
+}
+
+.kpi-value {
+  font-size: 42px;
+  font-weight: bold;
+}
+
+.page-search {
+  margin-bottom: 25px !important;
+}
+
+.page-filters {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-bottom: 25px;
+}
+
+.page-filters .MuiTextField-root {
+  width: 220px;
+}
+
+.page-table {
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.page-table tbody tr:hover {
+  background: #f5f9ff;
+}
+
+.dashboard-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 20px;
+  margin-bottom: 16px;   /* instead of 25px or larger */
+}
+
+.dashboard-chart {
+  margin-top: 20px !important;
+  padding: 24px !important;
+  border-radius: 12px !important;
+}
